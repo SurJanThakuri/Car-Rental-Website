@@ -5,7 +5,7 @@ function HeroSection() {
   return (
     <div className='w-[100%] h-auto my-4 relative'>
       <img src="/images/bannerLambo1.png" className='w-full h-auto mx-auto' alt="" />
-      <div className='absolute flex flex-col gap-3 bottom-32 right-10 md:right-20 lg:right-32 xl:right-40'>
+      <div className='absolute flex flex-col gap-3 bottom-16 xl:bottom-32 md:bottom-16 lg:bottom-20 right-10 md:right-16 lg:right-32 xl:right-30'>
         <div>
           <h1 className='text-2xl font-bold'>Safer, Faster and</h1>
           <h1 className='text-2xl font-bold'>Comfortable</h1>
